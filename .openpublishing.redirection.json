@@ -1,7 +1,7 @@
 {
   "redirections":[
   {
-    "source_path":"test116/index.yml",
+    "source_path":"test116/index.md",
     "redirect_url":"/test116/redirection",
     "redirect_document_id":true
   }
